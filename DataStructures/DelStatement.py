@@ -14,3 +14,5 @@ print(a)
 del a
 #print(a)  error occur
 
+
+
